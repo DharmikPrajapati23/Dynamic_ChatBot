@@ -59,8 +59,7 @@ Ensure the following are installed or configured:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd my_chatbot_app
+git clone https://github.com/DharmikPrajapati23/Dynamic_ChatBot.git
 ```
 
 > Or manually download and extract the files, then:
