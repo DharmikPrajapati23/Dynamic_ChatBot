@@ -6,6 +6,11 @@ The application is built using **Streamlit** for a simple web interface, integra
 
 ---
 
+## Working of Project
+
+https://github.com/user-attachments/assets/4574cca3-d896-4375-a257-2a2cf30a0838
+
+
 ## ✨ Features
 
 - **Conversational AI**  
@@ -67,12 +72,6 @@ cd my_chatbot_app
 
 ```bash
 python -m venv venv
-
-# Windows
-.env\Scriptsctivate
-
-# macOS/Linux
-source venv/bin/activate
 ```
 
 ### 3. Install Dependencies
@@ -90,8 +89,6 @@ GEMINI_API_KEY='YOUR_GEMINI_API_KEY'
 GOOGLE_SEARCH_API_KEY='YOUR_GOOGLE_SEARCH_API_KEY'
 GOOGLE_SEARCH_CX='YOUR_GOOGLE_SEARCH_CX'
 ```
-
-> ⚠️ **Important:** Never commit your `.env` file. For deployment (e.g., Streamlit Cloud), configure these as **Secrets** in the platform settings.
 
 ### 5. Run the Chatbot
 
